@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Start>
-        <Stream url="wss://761e-76-132-49-8.ngrok-free.app/telephone/handler" track="both_tracks" />
+        <Stream url="wss://tight-lizard-charmed.ngrok-free.app/telephone/handler" track="both_tracks" />
     </Start>
     <Dial><Number byoc="BYee36a817c612d5707bea19e930223e41">1000</Number></Dial>
 </Response>
